@@ -1,0 +1,15 @@
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe.config
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.pdb
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\bin\Debug\OpenTK.dll
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.dll
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\bin\Debug\OpenTK.xml
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.xml
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.AssemblyReference.cache
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Properties.Resources.resources
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.GenerateResource.cache
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.CoreCompileInputs.cache
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_w.BDF396D2.Up2Date
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.exe
+C:\Users\cisco\Downloads\MarjinaD_tema08-main\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.pdb
