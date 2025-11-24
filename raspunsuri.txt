@@ -1,0 +1,17 @@
+- Descrieți diferențele dintre iluminarea așa cum funcționează în lumea
+reală și modelul de iluminare utilizat de OpenGL.
+	In realitate lumina e fizica cu fotoni. In OpenGL e doar matematica, calculeaza lumina doar pe obiect.
+
+
+- Câte surse de lumină sunt suportate în implementarea curentă a
+OpenGL cu ajutorul framework-ului OpenTK?
+	Minimum 8.
+
+- Definiți iluminarea de material și specificați unde și când este
+utilizată aceasta.
+	E culoarea obiectului, cum se reflecta lumina. Se foloseste in formula de calcul ca sa stie cata lumina ambientala/difuza/speculara intoarce obiectul.
+
+- Care este efectul asupra diverselor obiecte la activarea unei surse de
+lumină secundare (per pct. 3), comparativ cu utilizarea unei singure
+surse de lumină?
+	Obiectul e mai luminat si apare stralucire si din partea cealalta.
